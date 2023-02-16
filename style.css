@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color:hsl(233, 47%, 7%) ;
+}
+
+img{
+    width:100%;
+    border-radius: .5rem .5rem 0 0;
+}
+
+#main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin:3rem auto;
+    width:80%;
+    min-height: 100vh;
+    border-radius: .5rem;
+    background-color: hsl(244, 38%, 16%);
+}
+
+.mobile-lower-div{
+    padding:1.8rem 1.8rem 0 1.8rem;
+}
+
+#main-heading{
+    padding-bottom: .8rem;
+}
+
+.mobile-lower-div p{
+    color:hsla(0, 0%, 100%, 0.6);
+    font-size: .8rem;
+    padding-bottom: 1.8rem;
+}
+
+#main-paragraph{
+    font-size: inherit;
+    color:hsla(0, 0%, 100%, 0.75);
+    padding-bottom: 1.8rem;
+}
+
+.mobile-lower-div span{
+    color:hsl(277, 64%, 61%)
+}
+
+.stats{
+    padding-bottom: .3rem;
+}
+
+@media (min-width:1020px) {
+    #main-container{
+        flex-direction:row;
+        min-width: 80%;
+        min-height: 40%;
+        border-radius: 0.5rem;
+    }
+    .desktop-right-div{
+        min-width:50%;
+        order: 1;
+    }
+    .desktop-left-div{
+        background-color: rgb(7, 32, 24);
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        text-align: start;
+        max-height: 100%;
+        min-height: 100%;
+        height: 342px;
+        min-width:50%;
+        padding-top:0;
+        border-radius: 0.5rem 0 0 0.5rem;
+    }
+    img{
+        min-width:100%;
+        min-height:100%;
+        /* height: 340px; */
+        border-radius: 0 .5rem 0.5rem 0;
+    }
+    source{
+        display: none;
+    }
+    #stats-and-stats-heading{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    #main-heading{
+        font-size: 2rem;
+    }
+}
