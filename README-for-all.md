@@ -1,5 +1,5 @@
 
-![Stats Preview Card](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
+![Stats Preview Card](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/t26y9p3veejvbc9biv3f.jpg)
 
 
 
