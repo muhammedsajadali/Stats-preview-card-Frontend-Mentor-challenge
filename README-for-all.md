@@ -1,17 +1,17 @@
 
-![ENTER YOUR PROJECT NAME](Here paste link of project screenshot)
+![Stats Preview Card](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
 
 
-# name of the project
+# Stats Preview Card
 
 <div align="center">
 
-[Live](paste the live link of the solution)
-| [Solution](paste the link of solution)
-| [Challenge](paste the link of challenge)
+[Live](https://muhammedsajadali.github.io/Stats-preview-card-Frontend-Mentor-challenge/)
+| [Solution](https://www.frontendmentor.io/solutions/desktop-first-approach-stats-preview-card-hylZoreax-)
+| [Challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
-This is a solution to the [Enter the name of the challenge +  challenge on Frontend Mentor](the link of challenge)
+Solution to the [Status Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62)
 
 </div>
 
@@ -20,14 +20,14 @@ This is a solution to the [Enter the name of the challenge +  challenge on Front
 
 ## About the Project
 
-This challenge will .........bla bla bla add what the heck this challenge is all about
+This challenge measure your skills in making a stats card preview.
 
 
 
 Users should be able to:
 
 1. View the optimal layout depending on their device's screen size
-2. See hover states for interactive elements
+
 
 
 
@@ -42,7 +42,7 @@ Users should be able to:
 
 ## What I learned 
 
-just type what the heck you learned from this challenge
+Learned the mix-blend-mode property of CSS
 
 ## Acknowledgments
 
