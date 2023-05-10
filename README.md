@@ -26,7 +26,7 @@ This challenge measure your skills in making a stats card preview.
 
 Users should be able to:
 
-1. View the optimal layout depending on their device's screen size
+View the optimal layout depending on their device's screen size
 
 
 
