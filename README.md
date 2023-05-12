@@ -38,7 +38,7 @@ View the optimal layout depending on their device's screen size
 - CSS custom properties
 - Flexbox
 - Mobile/Desktop-first workflow
-- Vanilla JavaScript
+
 
 ## What I learned 
 
